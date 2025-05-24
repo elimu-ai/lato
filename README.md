@@ -1,5 +1,8 @@
 # Lato - A downhill snowboarding game for Android
 
+> [!NOTE]
+> The code in this repository was originally copied from https://gitlab.com/ar-/lato
+
 ![screenshot](metadata/en-GB/images/featureGraphic.png)
 
 # License
